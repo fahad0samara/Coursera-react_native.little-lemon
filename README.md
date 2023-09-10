@@ -2,6 +2,19 @@
 
 The Little Lemon Menu App is a mobile application that allows users to browse and search for menu items. It provides a user-friendly interface to view a variety of menu items organized into different categories like "Appetizers," "Salads," and "Beverages." Users can filter menu items by category and perform keyword searches to find their favorite dishes.
 
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/fahad0samara/Coursera-react_native.little-lemon/assets/90055525/fef6a612-aafd-477d-a607-57fd2b3a647d" width="400"></td>
+    <td align="center"><img src="https://github.com/fahad0samara/Coursera-react_native.little-lemon/assets/90055525/4bffedc1-7594-4474-a8fa-aa7be59610f0" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">Image 1</td>
+    <td align="center">Image 2</td>
+  </tr>
+</table>
+
+
+
 ## Features
 
 - Browse a diverse selection of menu items.
