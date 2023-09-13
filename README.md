@@ -1,4 +1,4 @@
-# Little Lemon Menu App
+
 
 The Little Lemon Menu App is a mobile application that allows users to browse and search for menu items. It provides a user-friendly interface to view a variety of menu items organized into different categories like "Appetizers," "Salads," and "Beverages." Users can filter menu items by category and perform keyword searches to find their favorite dishes.
 
